@@ -6,6 +6,9 @@ spring:
           github:
             clientId: ca1210dff77d866d78ba
             clientSecret: 19bcb393db81e009660dcec7c0f9c0cf5284411b
+          google:
+            client-id: 447315976708-fbb1urpkd6orlpn1qe0gfie78ei55c6d.apps.googleusercontent.com
+            client-secret: S0cv68Eo1j7oFAPxKz0QeHR3
   freemarker:
     suffix: .ftl
     
