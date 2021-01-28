@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: ca1210dff77d866d78ba
+            clientSecret: 19bcb393db81e009660dcec7c0f9c0cf5284411b
+  freemarker:
+    suffix: .ftl
+    
